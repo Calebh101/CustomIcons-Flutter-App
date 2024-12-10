@@ -8,7 +8,7 @@
 PRODUCT_NAME = customicons
 
 // The application's bundle identifier
-PRODUCT_BUNDLE_IDENTIFIER = com.example.customicons
+PRODUCT_BUNDLE_IDENTIFIER = com.calebh101.customicons
 
 // The copyright displayed in application information
-PRODUCT_COPYRIGHT = Copyright © 2024 com.example. All rights reserved.
+PRODUCT_COPYRIGHT = Copyright © 2024 com.calebh101. All rights reserved.
